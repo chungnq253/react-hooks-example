@@ -1,6 +1,8 @@
 {
-  "name": "my-app",
+  "name": "react-hooks-example",
+  "author": "chungnq253@gmail.com",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
